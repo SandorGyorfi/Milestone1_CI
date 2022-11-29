@@ -8,7 +8,6 @@
     }
     
     h1 {
-    text-shadow: 2px black;  
     margin-top: 0;
     margin-bottom: 2em;
     padding-left: 3%;
@@ -306,7 +305,7 @@
             top: 80px;
             left: -100%;
             text-align: center;
-            transform: all .4s;
+            transform:  .4s;
     
         }
         nav ul li {
