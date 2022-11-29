@@ -8,11 +8,12 @@
     }
     
     h1 {
+    text-shadow: 2px black;  
     margin-top: 0;
     margin-bottom: 2em;
     padding-left: 3%;
     padding-right: 98%;
-    color: #f2e8df;
+    color: #691583;
     border-radius: 5px;
     border-color: #d2ccd8;
     box-sizing: content-box;
@@ -42,8 +43,15 @@
     margin: 1em 0 0;
     
     }
+
+    .ytvideo {
+        width: 80%;
+        margin: 1em 0 0;
+        
+        }
     
     .sign {
+    color: #f2b263;    
     font-size: 85%;
     font-style: italic;
     
@@ -73,7 +81,7 @@
     background: #f2e8df;
     padding: 20px 40px;
     outline: none;
-    color: #86a69d;
+    color: #691583;
     transition: 0.4s;
     
     }
@@ -85,7 +93,7 @@
     textarea.contact-form-text {
     resize: none;
     height: 120px;
-    color: #86a69d;
+    color: #691583;
     
     }
     
@@ -94,25 +102,30 @@
     border: 0;
     background: #f28585;
     color: #ffffff;
-    padding: 12px 50px;
+    padding: 12px 44px;
     cursor: pointer;
     transition: 0.4s;
     }
     
     .contact-form-btn:hover {
-    background: #f2b263
+    background: #691583
     
         
     }
     
     .sub {
     text-align: center;
-    font-size: 75%;
-    
+    font-size: 57%;
+    color: #691583;
+    }
+
+    input {
+        accent-color: #691583;
     }
     
+    
     #imdbcube {
-    color: #f2b263;
+    color: #691583;
     }
     
     
@@ -132,7 +145,7 @@
         section {
             column-count: 2;
             column-rule-style: solid;
-            column-rule-color: #86a69d;
+            column-rule-color: #a0c5bb;
             column-rule-width: 1px;
         }  
     
@@ -164,17 +177,26 @@
         section {
             column-count: 3;
         }
+        article {
+            padding: 2em;
+            background: #f2c6c2;
+        }
     
     }
     
+    h1 {
+        font-size: 3rem;
+        margin: 15px 0 0.5rem;
+    }
     .h1title {
     font-family: 'Trebuchet MS', sans-serif;
     text-transform: uppercase;
+    
     }
     
     body {
     margin: 0;
-    background: #86a69d;
+    background: #a0c5bb;
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-repeat: no-repeat;
@@ -184,7 +206,7 @@
     }
     
     nav {
-    background: #f2b263;
+    background: #691583;
     height: 100px;
     width: 100%;
     }
@@ -193,7 +215,7 @@
     color: #f2e8df;
     text-align: center;
     font-size: 51px;
-    line-height: 40px;
+    line-height: 100px;
     padding: 0 6px;
     font-weight: bold;
     }
@@ -218,8 +240,10 @@
     }
     
     a.active, a:hover {
-    background: #86a69d;
-    transition: .4s;
+        background: none;
+        color: #691583;
+        background: #a0c5bb;
+        transition: .4s; 
     }
     
     .checkbtn {
@@ -242,9 +266,16 @@
             font-size: 25px;
             padding-left: 50px;
         }
+        h1 {
+            font-size: 3rem;
+            margin: 15px 0 0.5rem;
+        }
         nav ul li a {
             font-size: 16px;
-    
+        }
+        article {
+            padding: 2em;
+            background: #f2c6c2;
         }
         }
     
@@ -252,11 +283,26 @@
         .checkbtn {
             display: block;
         }
+        .logo {
+            color: #f2e8df;
+            text-align: center;
+            font-size: 35px;
+            line-height: 100px;
+            padding: 0 6px;
+            font-weight: bold;
+        }
+        h1 {
+            font-size: 3rem;
+            margin: 15px 0 0.5rem;
+        }
+        article {
+            padding: 2em;
+            background: #f2c6c2;}
         ul {
             position: fixed;
             width: 100%;
             height: 100vh;
-            background: #86a69d;
+            background: #691583;
             top: 80px;
             left: -100%;
             text-align: center;
@@ -270,11 +316,14 @@
         }
     
         nav ul li a {
+            color: #f2e8df;
             font-size: 20px;
         }
         a:hover, a.active {
             background: none;
-            color: #f2b263;
+            color: #691583;
+            background: #a0c5bb;
+            transition: .4s;    
         } 
     
         #check:checked ~ ul{
@@ -288,8 +337,8 @@
     padding: 15px;
     text-align: left;
     font-size: 70%;
-    color: #f2c6c2;
-    background-color: #f28585;
+    color: #f2e8df;
+    background-color: #691583;
     
     }
     
