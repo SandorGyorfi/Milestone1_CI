@@ -31,4 +31,4 @@ The website was tested on all standard device settings and all type of standard 
 
 It is a fully responsive and automated website and it’s catching up with all standard different sizes.
 
-The website also been tested for deceptive persons, to make the visibility 100% visible
+The website also been tested for deceptive persons, to make the visibility 100% 
