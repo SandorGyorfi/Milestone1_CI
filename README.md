@@ -11,7 +11,9 @@ Olivia Magyars website is a key site to bring her talents to the crowd and help 
   - Featured on all three pages, the full responsive navigation bar includes links to the Singing, Acting and Tennis menus and is identical in each page to allow for easy navigation. Theres also social media links inside the nav bar.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-  ![ch](assets/images/nav.png) ![ch](assets/images/nav2.png)
+  ![ch](assets/images/nav.png) 
+  ![ch](assets/images/nav2.png)
+  ![ch](assets/images/nav3.png)
 
 - __The pages__
 
@@ -29,7 +31,7 @@ Olivia Magyars website is a key site to bring her talents to the crowd and help 
   - The footer section includes that the 100% of the website content is all right reserved.
  - Also mention the designer initials
 
-## Testing 
+## Testing
 
 The website was tested on all standard device settings and all type of standard browsers as well.
 
@@ -37,3 +39,12 @@ It is a fully responsive and automated website and it’s catching up with all s
 
 The website also been tested for deceptive persons, to make the visibility 100% 
 
+### Validator Testing
+
+- HTML
+
+ No errors were found when passing through the official
+
+- CSS
+
+Also no errors returned when passing through the official:
