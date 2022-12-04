@@ -19,8 +19,37 @@ h1 {
 
 }
 
-p {
+h2 {
+	font-family: 'Trebuchet MS', sans-serif ;
+	color: #691583;
+	font-size: 88%;
+	float: left;
 
+}
+
+h3 {
+	font-family: 'Trebuchet MS', sans-serif ;
+	color: #d2ccd8;
+	margin-top: 0;
+	margin-bottom: 2.5em;
+	font-size: 150%;
+}
+
+h4 {
+	font-family: 'Trebuchet MS', sans-serif ;
+	color: #435751;
+	margin-top: 0;
+	margin-bottom: 1.5em;
+	font-size: 110%;
+}
+
+.h3title {
+	background-color: #691583;
+	box-sizing: content-box;
+	padding-block: 1.2em;
+}
+
+p {
 	margin-top: 0;
 	color: #435751;
 
