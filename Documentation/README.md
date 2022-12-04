@@ -43,8 +43,8 @@ The website also been tested for deceptive persons, to make the visibility 100%
 
 - HTML
 
- No errors were found when passing through the official
+ No errors were found when passing through the official (http://validator.w3.org/services)
 
 - CSS
 
-Also no errors returned when passing through the official:
+Also no errors returned when passing through the official (http://validator.w3.org/services)
