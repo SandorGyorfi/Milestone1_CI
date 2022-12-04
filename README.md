@@ -11,9 +11,9 @@ Olivia Magyars website is a key site to bring her talents to the crowd and help 
   - Featured on all three pages, the full responsive navigation bar includes links to the Singing, Acting and Tennis menus and is identical in each page to allow for easy navigation. Theres also social media links inside the nav bar.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-  ![ch](documentation/nav.png) 
-  ![ch](documentation/nav2.png)
-  ![ch](documentation/nav3.png)
+  ![ch](assets/images/nav.png) 
+  ![ch](assets/images/nav2.png)
+  ![ch](assets/images/nav3.png)
 
 - __The pages__
 
@@ -24,7 +24,7 @@ Olivia Magyars website is a key site to bring her talents to the crowd and help 
 
  - The contact section will allow the user to contact with Olivia Magyars management and also give a possibility to subscribe with a check button
 
- ![ch](documentation/subscribe.png)
+ ![ch](assets/images/subscribe.png)
 
 - __The Footer__ 
 
