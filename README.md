@@ -62,7 +62,7 @@ Also no errors returned when passing through the official (http://validator.w3.o
 
  ## Credits
 
- - For all the contents handled to me by Olivia Magyars parents and permission recieved by them as well. 
+ - For all the contents handled to me by Olivia Magyars legal guardian and permission recieved by them as well. 
 
 ### Pictures:
   [Hauser picture](assets/images/hauser01.jpg) - All the legal rights owned by Hauser https://hauserofficial.com/, permission to use recieved.
@@ -75,11 +75,11 @@ Also no errors returned when passing through the official (http://validator.w3.o
 
   [Olivia singing picture](assets/images/koviragok_fellepes02.jpg) - All the legal rights owned by the parents, permission to use recieved.
 
-  [Olivia tennis picture](assets/images/tennis02.jpeg) - All the legal rights owned by the parents, permission to use recieved.
+  [Olivia tennis picture](assets/images/tennis02.jpeg) - All the legal rights owned by the legal guardian, permission to use recieved.
 
-  [Olivia tennis picture](assets/images/ommain.jpeg) - All the legal rights owned by the parents, permission to use recieved.
+  [Olivia tennis picture](assets/images/ommain.jpeg) - All the legal rights owned by the legal guardian, permission to use recieved.
 
-  [Olivia singing picture](assets/images/tennis01.jpeg) - All the legal rights owned by the parents, permission to use recieved.
+  [Olivia singing picture](assets/images/tennis01.jpeg) - All the legal rights owned by legal guardian, permission to use recieved.
 
 ### Videos:
   [Hauser video](https://www.youtube.com/embed/UTSfLE-LfPo) - All the legal rights owned by Hauser https://hauserofficial.com/, permission to use recieved.
@@ -90,5 +90,5 @@ Also no errors returned when passing through the official (http://validator.w3.o
 
 
 ## Content:
-- All the content written by the parents.
+- All the content written by the legal guardian. All the colour themes written by order.
 
