@@ -90,5 +90,5 @@ Also no errors returned when passing through the official (http://validator.w3.o
 
 
 ## Content:
-- All the content written by the legal guardian. All the colour themes written by order.
+- All the content written by the legal guardian. All the colour themes written by order and all the codes written by Sandor Gyorfi
 

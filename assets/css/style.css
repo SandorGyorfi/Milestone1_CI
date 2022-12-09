@@ -149,6 +149,11 @@ input {
 	accent-color: #691583;
 }
 
+.sub_end {
+	font-size: 250%;
+	color: #691583;
+	text-transform: uppercase;
+}
 
 #imdbcube {
 	color: #691583;
