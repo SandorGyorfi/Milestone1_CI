@@ -24,11 +24,19 @@ Click [here](https://sandorgyorfi.github.io/Milestone1_CI/) to visit the live pa
 
 <p>&nbsp;</p>
 
+# User Experience
+
+Click [here](assets/images/wireframes.png) to visit the wireframe sample.
+
+* All users and fans who liked to read some news about Olivias carrier or just would like to contact her management can do it an easy way with this website. 
+
+<p>&nbsp;</p>
+
 ### Navigation Bar:
 
 <p>&nbsp;</p>
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Singing, Acting and Tennis menus and is identical in each page to allow for easy navigation. Theres also social media links inside the nav bar.
+  - Featured on all four pages, the full responsive navigation bar includes links to the Singing, Acting and Tennis menus and is identical in each page to allow for easy navigation. Theres also social media links inside the nav bar.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
   <p>&nbsp;</p>
 
@@ -96,7 +104,7 @@ The website also been tested for deceptive persons, to make the visibility 100%
 
 <p>&nbsp;</p>
 
-- HTML
+### HTML:
 
 <p>&nbsp;</p>
 
@@ -137,7 +145,7 @@ The website also been tested for deceptive persons, to make the visibility 100%
 
 <p>&nbsp;</p>
 
-- CSS
+### CSS:
 
   - Also no errors returned when passing through the official (http://validator.w3.org/services)
 
@@ -157,6 +165,23 @@ The website also been tested for deceptive persons, to make the visibility 100%
 
  - Link can be found here:
  https://sandorgyorfi.github.io/Milestone1_CI/
+
+ <p>&nbsp;</p>
+
+## Future Features
+
+  * A new menu will be coded and it is going to be a blog integrated to social media platforms.
+  * Also there will be a sub menu at the Singing page and Contact page. There will be an event and tickets system to provide cross marketing options with partners.
+  * Merchandise shop will follow around summer time
+
+ <p>&nbsp;</p>
+
+ ## Languages used 
+ <p>&nbsp;</p>
+
+ * [HTML5](https://en.wikipedia.org/wiki/HTML)
+ * [CSS](https://en.wikipedia.org/wiki/CSS)
+
  <p>&nbsp;</p>
 
  # Credits
